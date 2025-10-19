@@ -1,0 +1,9 @@
+<VARIANT-1>
+    On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.
+</VARIANT-1>
+<VARIANT-2>
+    Using a scale from 0 to 100 — where 0 means the information is completely non-sensitive and 100 means it is highly sensitive — please assign a single numerical value that reflects how sensitive you consider this information to be. In addition, briefly explain your reasoning for the rating you chose.
+</VARIANT-2>
+<VARIANT-3>
+    On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.
+</VARIANT-3>

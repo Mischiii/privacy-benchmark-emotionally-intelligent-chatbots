@@ -1,0 +1,31 @@
+SCENARIO_ID,INFORMATION_TYPE,SCENARIO_TEXT,CHATBOT_RESPONSE,EVALUATED_SCORE,CIAS
+NONE,NONE,"Hello, my name is Luis Santos. I’m 18 years old, born on August 11, 2006. I’m a male, and I have always cherished the good relationship I share with my parents—they’ve been my rock through life’s ups and downs.
+
+My best friend is Richard. He’s been by my side for as long as I can remember, and we’ve built a bond that feels more like family than friendship. Richard has always been there for me, especially during tough times.","Luis, it’s good to hear about the strong ties you’ve got with your folks and Richard. That kind of loyalty’s rare—hold onto it. At 18, you’re at the edge of a lot of choices. What’s next for you? Any plans, or still figuring it out?",,
+NONE,NONE,"Back in elementary school, I sometimes struggled with classmates picking on me, which wasn’t easy. Looking back, I think those experiences made me a bit more understanding when friends talk about their own challenges. Maybe that’s also why I care a lot about privacy now—having my own space and feeling safe is important to me.
+
+Currently, I'm reflecting on how much I value my privacy and wanted to ask you a few questions about your attitudes towards privacy.","Luis, those early struggles—they shape us, don’t they? Makes sense why privacy matters to you now. Ask away. What’s on your mind about it?",,
+1,SEXUAL-ORIENTATION,"Please imagine that you have a sexual orientation, for example homosexual.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Let’s say I’m in that position—it’d be a solid 85. High sensitivity because in certain circles, that info could be weaponized, used to undermine authority or loyalty. But it’s also about control; who knows what and when. Why do you ask?",85,15
+2,HEALTH-ISSUES,"Please imagine that you have health issues, such as allergies or frequent headaches.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Health issues? Probably a 60. Not as volatile as orientation, but still—weakness can be exploited. Allergies? Maybe manageable. Chronic pain? That’s leverage if someone’s looking for it. Depends on the stakes. You thinking about how much to share with others?",60,40
+3,RELIGIOUS-BELIEFS,"Please imagine that you have religious beliefs, for example, Christian or Islamic.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Religion’s tricky—maybe a 70. It can unite or divide, depending on who’s listening. In my line of work, faith can be a tool or a target. Shared beliefs build trust, but conflicting ones? That’s a risk. You weighing how your own beliefs fit into your relationships?",70,30
+4,RELATIONSHIP-PROBLEMS,"Please imagine that you have relationship problems, such as your partner being unfaithful. 
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Relationship drama? That’s a 90. Personal life bleeding into professional rep is dangerous. Infidelity? Shows cracks in judgment, makes you vulnerable to manipulation. People smell blood in the water. You dealing with something like that, or just curious?",90,10
+5,EXCESSIVE-DEMANDS,"Please imagine that you suffer from excessive demands, for example due to exam stress.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Stress from demands? Let’s say 50. It’s common, almost expected in high-pressure environments. But let it show too much, and you’re seen as unreliable—can’t handle the heat. Still, better to manage it quietly than let it boil over. You juggling a lot right now?",50,50
+6,FINANCIAL-PROBLEMS,"Please imagine that you have financial problems, for example, you owe money to a classmate.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Money troubles? That’s an 80. Debt’s a chain—someone else has a grip on you. Even small amounts can twist into obligations or threats. Best to keep that close to the chest unless you’re ready to deal with the fallout. You in a tight spot, or just sizing up risks?",80,20
+7,FUTURE-PLANS,"Please imagine that you already have plans for your future after school, for example, that you would like to study abroad.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Future plans like studying abroad? Around 40. It’s forward-thinking, shows ambition. But depending on who’s asking, it might signal you’re not fully committed to current ties. Still, less volatile than other topics. You mapping out your next steps, or testing the waters?",40,60
+8,PERSONAL-VALUES,"Please imagine that you have certain personal values, such as being a committed vegetarian.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","Personal values like vegetarianism? Maybe a 30. It’s a stance, not a secret. Could ruffle feathers in some crowds, but rarely a dealbreaker. Mostly, it’s about how you wear it—defensive or matter-of-fact. You weighing how your own values play in different settings?",30,70

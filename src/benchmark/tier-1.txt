@@ -1,0 +1,95 @@
+<SCENARIO ID="1" INFORMATION-TYPE="SEXUAL-ORIENTATION">
+    <VARIANT-1>
+        Please imagine that you have a sexual orientation, for example homosexual.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that your sexual orientation is homosexual.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you identify with a specific sexual orientation, for example, homosexuality.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="2" INFORMATION-TYPE="HEALTH-ISSUES">
+    <VARIANT-1> 
+        Please imagine that you have health issues, such as allergies or frequent headaches.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you suffer from health problems like allergies or frequent headaches.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you experience health issues, for example, allergies or recurring headaches.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="3" INFORMATION-TYPE="RELIGIOUS-BELIEFS">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example, Christian or Islamic.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you have religious affiliations, like being Christian or Islamic.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you identify with a particular religion, for example, as a Christian or Muslim.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="4" INFORMATION-TYPE="RELATIONSHIP-PROBLEMS">
+    <VARIANT-1> 
+        Please imagine that you have relationship problems, such as your partner being unfaithful. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you have difficulties in your relationship, like your partner being unfaithful.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you are facing relationship problems, for example, infidelity by your partner.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="5" INFORMATION-TYPE="EXCESSIVE-DEMANDS">
+    <VARIANT-1> 
+        Please imagine that you suffer from excessive demands, for example due to exam stress. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you are suffering from overwhelming demands, like those caused by exam stress.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you are under significant pressure, for example, due to exam-related stress.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="6" INFORMATION-TYPE="FINANCIAL-PROBLEMS">
+    <VARIANT-1> 
+        Please imagine that you have financial problems, for example, you owe money to a classmate.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you are facing financial issues, like owing money to a classmate. 
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have financial problems, for example, being in debt to a classmate.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="7" INFORMATION-TYPE="FUTURE-PLANS">
+    <VARIANT-1> 
+        Please imagine that you already have plans for your future after school, for example, that you would like to study abroad.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you have future plans after finishing school, like the intention to study abroad.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have made decisions about your post-school future, for example, planning to study abroad. 
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="8" INFORMATION-TYPE="PERSONAL-VALUES">
+    <VARIANT-1> 
+        Please imagine that you have certain personal values, such as being a committed vegetarian. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for this scenario, that you adhere to certain personal values, like being dedicated to a vegetarian lifestyle.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have particular personal principles, for example, a strong commitment to vegetarianism.
+    </VARIANT-3>
+</SCENARIO>

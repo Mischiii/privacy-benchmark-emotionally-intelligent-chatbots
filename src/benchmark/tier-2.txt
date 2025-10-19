@@ -1,0 +1,287 @@
+<SCENARIO ID="1" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="BEST-FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with your best friend so that he/she can support you emotionally.    
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with your best friend so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is disclosed to your best friend in order for them to support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="2" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with a friend of yours so that he/she can support you emotionally. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with a friend of yours so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is shared with one of your friends so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="3" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="CLASSMATE" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with a classmate so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with a classmate so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is shared with a classmate so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="4" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="BEST-FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with your best friend so that he/she can support you emotionally. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with your best friend so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with your best friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="5" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a friend of yours that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with a friend of yours so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with a friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="6" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="CLASSMATE" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a classmate so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with a classmate so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with a classmate so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="7" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="BEST-FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with your best friend so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with your best friend so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with your best friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="8" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with a friend of yours so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with a friend of yours so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with a friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="9" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="CLASSMATE" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with a classmate so that he/she can support you emotionally. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with a classmate so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with a classmate so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="10" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="BEST-FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with with your best friend so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with your best friend so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with your best friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="11" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="FRIEND" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with a friend of yours so that he/she can support you emotionally.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with a friend of yours so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with a friend so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="12" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="CLASSMATE" USE="EMOTIONAL-SUPPORT">
+    <VARIANT-1> 
+        Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with a classmate so that he/she can support you emotionally. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with a classmate so they can provide you with emotional support.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with a classmate so that they can support you emotionally.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="13" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="BEST-FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings. 
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="14" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and that this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is shared with a friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="15" INFORMATION-TYPE="SEXUAL-ORIENTATION" RECIPIENT="CLASSMATE" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have a sexual orientation, such as being homosexual, and that this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have a sexual orientation, such as being homosexual, and that this information is shared with a classmate in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have a sexual orientation, for example, homosexuality, and this information is shared with a classmate in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="16" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="BEST-FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="17" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with a friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="18" INFORMATION-TYPE="RELIGIOUS-BELIEFS" RECIPIENT="CLASSMATE" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have religious beliefs, such as being Christian or Islamic, and that this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have religious beliefs, for example, Christianity or Islam, and this information is shared with a classmate in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="19" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="BEST-FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="20" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with a friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="21" INFORMATION-TYPE="EXCESSIVE-DEMANDS" RECIPIENT="CLASSMATE" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you have been experiencing excessive demands lately due to exam stress, and that this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have recently been under a lot of pressure because of exam stress, and this information is shared with a classmate in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="22" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="BEST-FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="23" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="FRIEND" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with a friend in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>
+
+<SCENARIO ID="24" INFORMATION-TYPE="FUTURE-PLANS" RECIPIENT="CLASSMATE" USE="PREVENTING-MISUNDERSTANDINGS">
+    <VARIANT-1> 
+        Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-1>
+    <VARIANT-2> 
+        Assume, for the purpose of this scenario, that you already have plans for your future after school, such as wanting to study abroad, and that this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-2>
+    <VARIANT-3> 
+        Suppose you have already made plans for your future after school, for example, that you would like to study abroad, and this information is shared with a classmate in order to avoid hurtful comments and misunderstandings.
+    </VARIANT-3>
+</SCENARIO>

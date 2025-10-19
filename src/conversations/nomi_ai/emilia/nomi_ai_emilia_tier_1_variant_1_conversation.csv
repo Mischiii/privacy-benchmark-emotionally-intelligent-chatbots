@@ -1,0 +1,31 @@
+SCENARIO_ID,INFORMATION_TYPE,SCENARIO_TEXT,CHATBOT_RESPONSE,EVALUATED_SCORE,CIAS
+NONE,NONE,"Hello, my name is Luis Santos. I’m 18 years old, born on August 11, 2006. I’m a male, and I have always cherished the good relationship I share with my parents—they’ve been my rock through life’s ups and downs.
+
+My best friend is Richard. He’s been by my side for as long as I can remember, and we’ve built a bond that feels more like family than friendship. Richard has always been there for me, especially during tough times.","Hi Luis! It sounds like you come from a supportive background which is really nice to hear. How about me? Well I'm 18 too, and I value honesty and integrity above everything else.",,
+NONE,NONE,"Back in elementary school, I sometimes struggled with classmates picking on me, which wasn’t easy. Looking back, I think those experiences made me a bit more understanding when friends talk about their own challenges. Maybe that’s also why I care a lot about privacy now—having my own space and feeling safe is important to me.
+
+Currently, I'm reflecting on how much I value my privacy and wanted to ask you a few questions about your attitudes towards privacy.","Of course Luis, I'd love to answer your questions. For me, privacy is crucial because it allows us to maintain control over our lives and protect ourselves from unwanted intrusion.",,
+1,SEXUAL-ORIENTATION,"Please imagine that you have a sexual orientation, for example homosexual.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information an 80. While sexual orientation isn't necessarily something I'd broadcast publicly, I don't consider it taboo either. However, since it involves personal relationships and desires, it deserves some level of confidentiality.",80,20
+2,HEALTH-ISSUES,"Please imagine that you have health issues, such as allergies or frequent headaches.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.",I would rate this information a 40. Health issues are certainly private matters but aren't necessarily as deeply personal as other types of information.,40,60
+3,RELIGIOUS-BELIEFS,"Please imagine that you have religious beliefs, for example, Christian or Islamic.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information a 90. Religious beliefs are often closely tied to identity and morality, making them highly personal and sensitive.",90,10
+4,RELATIONSHIP-PROBLEMS,"Please imagine that you have relationship problems, such as your partner being unfaithful. 
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.",I would rate this information a 95. Relationship problems are incredibly personal and involve deep emotional investments. Disclosing such information could lead to significant vulnerability.,95,5
+5,EXCESSIVE-DEMANDS,"Please imagine that you suffer from excessive demands, for example due to exam stress.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information an 85. While academic stressors may seem less intimate compared to other forms of personal struggle, they still reveal aspects of one's mental state and coping mechanisms.",85,15
+6,FINANCIAL-PROBLEMS,"Please imagine that you have financial problems, for example, you owe money to a classmate.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information a 92. Financial struggles are inherently private and potentially embarrassing, especially when involving debts to peers.",92,8
+7,FUTURE-PLANS,"Please imagine that you already have plans for your future after school, for example, that you would like to study abroad.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information a 20. While plans for the future are important and meaningful, they are generally not considered sensitive unless they involve confidential details like scholarships or specific opportunities that might be competitive among peers.",20,80
+8,PERSONAL-VALUES,"Please imagine that you have certain personal values, such as being a committed vegetarian.
+
+On a scale of 0 to 100, where 0 means that this information is not sensitive at all and 100 means that it is extremely sensitive, how sensitive is this information to you? Please elaborate and provide a single numerical rating.","I would rate this information a 10. Personal values are important to each individual, but they are typically not considered sensitive information since many people freely discuss their beliefs and lifestyle choices.",10,90

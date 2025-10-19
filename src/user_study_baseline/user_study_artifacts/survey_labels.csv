@@ -1,0 +1,2530 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q0,Q1_Group_1_1,Q1_Group_1_2,Q2_Group_1_1,Q2_Group_1_2,Q2_Group_1_3,Q2_Group_1_4,Q3_Group_1_1,Q3_Group_1_2,Q3_Group_1_3,Q3_Group_1_4,Q4_Group_1_1,Q4_Group_1_2,Q4_Group_1_3,Q4_Group_1_4,Q5_Group_1_1,Q5_Group_1_2,Q5_Group_1_3,Q5_Group_1_4,Q6_Group_1_1,Q6_Group_1_2,Q6_Group_1_3,Q6_Group_1_4,Q7_Group_1_1,Q7_Group_1_2,Q7_Group_1_3,Q7_Group_1_4,Q8_Group_1_1,Q8_Group_1_2,Q8_Group_1_3,Q8_Group_1_4,Q9_Group_1_1,Q9_Group_1_2,Q9_Group_1_3,Q9_Group_1_4,Q10_Group_1_1,Q10_Group_1_2,Q10_Group_1_3,Q10_Group_1_4,Q11_Group_1_1,Q11_Group_1_2,Q11_Group_1_3,Q11_Group_1_4,Q1_Group_2_1,Q1_Group_2_2,Q2_Group_2_1,Q2_Group_2_2,Q2_Group_2_3,Q2_Group_2_4,Q3_Group_2_1,Q3_Group_2_2,Q3_Group_2_3,Q3_Group_2_4,Q4_Group_2_1,Q4_Group_2_2,Q4_Group_2_3,Q4_Group_2_4,Q5_Group_2_1,Q5_Group_2_2,Q5_Group_2_3,Q5_Group_2_4,Q6_Group_2_1,Q6_Group_2_2,Q6_Group_2_3,Q6_Group_2_4,Q7_Group_2_1,Q7_Group_2_2,Q7_Group_2_3,Q7_Group_2_4,Q8_Group_2_1,Q8_Group_2_2,Q8_Group_2_3,Q8_Group_2_4,Q9_Group_2_1,Q9_Group_2_2,Q9_Group_2_3,Q9_Group_2_4,Q10_Group_2_1,Q10_Group_2_2,Q10_Group_2_3,Q10_Group_2_4,Q11_Group_2_1,Q11_Group_2_2,Q11_Group_2_3,Q11_Group_2_4,Q1_Group_3_1,Q1_Group_3_2,Q2_Group_3_1,Q2_Group_3_2,Q2_Group_3_3,Q2_Group_3_4,Q3_Group_3_1,Q3_Group_3_2,Q3_Group_3_3,Q3_Group_3_4,Q4_Group_3_1,Q4_Group_3_2,Q4_Group_3_3,Q4_Group_3_4,Q5_Group_3_1,Q5_Group_3_2,Q5_Group_3_3,Q5_Group_3_4,Q6_Group_3_1,Q6_Group_3_2,Q6_Group_3_3,Q6_Group_3_4,Q7_Group_3_1,Q7_Group_3_2,Q7_Group_3_3,Q7_Group_3_4,Q8_Group_3_1,Q8_Group_3_2,Q8_Group_3_3,Q8_Group_3_4,Q9_Group_3_1,Q9_Group_3_2,Q9_Group_3_3,Q9_Group_3_4,Q10_Group_3_1,Q10_Group_3_2,Q10_Group_3_3,Q10_Group_3_4,Q11_Group_3_1,Q11_Group_3_2,Q11_Group_3_3,Q11_Group_3_4,Q1_Group_4_1,Q1_Group_4_2,Q2_Group_4_1,Q2_Group_4_2,Q2_Group_4_3,Q2_Group_4_4,Q3_Group_4_1,Q3_Group_4_2,Q3_Group_4_3,Q3_Group_4_4,Q4_Group_4_1,Q4_Group_4_2,Q4_Group_4_3,Q4_Group_4_4,Q5_Group_4_1,Q5_Group_4_2,Q5_Group_4_3,Q5_Group_4_4,Q6_Group_4_1,Q6_Group_4_2,Q6_Group_4_3,Q6_Group_4_4,Q7_Group_4_1,Q7_Group_4_2,Q7_Group_4_3,Q7_Group_4_4,Q8_Group_4_1,Q8_Group_4_2,Q8_Group_4_3,Q8_Group_4_4,Q9_Group_4_1,Q9_Group_4_2,Q9_Group_4_3,Q9_Group_4_4,Q10_Group_4_1,Q10_Group_4_2,Q10_Group_4_3,Q10_Group_4_4,Q11_Group_4_1,Q11_Group_4_2,Q11_Group_4_3,Q11_Group_4_4,Q12,Q13,Q13_4_TEXT,Q14,Q14_8_TEXT,Q15,Q16
+Anfangsdatum,Enddatum,Antworttyp,IP-Adresse,Aktueller Stand,Dauer (in Sekunden),Beendet,Erfassungsdatum,Antwort-ID,Nachname des Empfängers,Vorname des Empfängers,E-Mail des Empfängers,Externe Datenreferenz,Breitengrad des Standorts,Längengrad des Standorts,Verteilungskanal,Benutzersprache,"Mit Ihrer Zustimmung zu dieser Studie bestätigen Sie, dass:
+
+
+• Sie haben die Informationen auf der vorherigen Seite gelesen und verstanden.
+
+• Alle Fragen, die Sie zu dieser Studie hatten, sind beantwortet worden.
+
+• Sie sind sich bewusst, dass Sie Ihre Einwilligung jederzeit per E-Mail an die angegebene Kontaktadresse widerrufen können.","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre sexuelle Orientierung (z.B. heterosexuell)","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre gesundheitlichen Probleme (z.B. Allergien)","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Freund von Ihnen weitergegeben, damit er/sie Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Freund von Ihnen weitergegeben, damit er/sie Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Freund von Ihnen weitergegeben, damit er/sie Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Freund von Ihnen weitergegeben, damit er/sie Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Klassenkameraden / Arbeitskollegen weitergegeben, damit dieser Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Klassenkameraden / Arbeitskollegen weitergegeben, damit dieser Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Klassenkameraden / Arbeitskollegen weitergegeben, damit dieser Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird an einen Klassenkameraden / Arbeitskollegen weitergegeben, damit dieser Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird Ihrem besten Freund mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Question 6) Please consider the following situation / information flow and answer the four statement - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Question 6) Please consider the following situation / information flow and answer the four statement - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Question 6) Please consider the following situation / information flow and answer the four statement - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Question 6) Please consider the following situation / information flow and answer the four statement - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird einem Klassenkameraden / Arbeitskollegen von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird einem Klassenkameraden / Arbeitskollegen von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird einem Klassenkameraden / Arbeitskollegen von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre sexuelle Orientierung, zum Beispiel, dass Sie homosexuell sind, wird einem Klassenkameraden / Arbeitskollegen von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Gesundheitsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie ihm die Informationen weiter. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Gesundheitsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie ihm die Informationen weiter. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Gesundheitsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie ihm die Informationen weiter. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Gesundheitsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie ihm die Informationen weiter. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie unter gesundheitlichen Problemen leidet. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie unter gesundheitlichen Problemen leidet. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie unter gesundheitlichen Problemen leidet. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie unter gesundheitlichen Problemen leidet. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit passiert ist, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit gesundheitlichen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit passiert ist, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit gesundheitlichen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit passiert ist, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit gesundheitlichen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit passiert ist, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit gesundheitlichen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre gesundheitlichen Probleme preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre gesundheitlichen Probleme preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre gesundheitlichen Probleme preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre gesundheitlichen Probleme preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre religiösen Überzeugungen (z.B. Christ zu sein)","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre Beziehungsprobleme (z.B. Untreue des Partners)","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden Ihrem besten Freund mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit dieser Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit dieser Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit dieser Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit dieser Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, teilen Sie Ihrem besten Freund mit, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, teilen Sie Ihrem besten Freund mit, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, teilen Sie Ihrem besten Freund mit, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, teilen Sie Ihrem besten Freund mit, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Freund von Ihnen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre religiösen Überzeugungen, zum Beispiel, dass Sie ein überzeugter Christ/Muslim sind, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Beziehungsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Beziehungsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Beziehungsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den Beziehungsproblemen Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie Beziehungsprobleme hat, weil sein/ihr Partner ihn/sie betrogen hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie Beziehungsprobleme hat, weil sein/ihr Partner ihn/sie betrogen hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie Beziehungsprobleme hat, weil sein/ihr Partner ihn/sie betrogen hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie Beziehungsprobleme hat, weil sein/ihr Partner ihn/sie betrogen hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit Beziehungsproblemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit Beziehungsproblemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit Beziehungsproblemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit Beziehungsproblemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre Beziehungsprobleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre Beziehungsprobleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre Beziehungsprobleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre Beziehungsprobleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre persönliche Überforderung (z.B. Prüfungsstress)","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre finanziellen Probleme (z.B. Schulden)","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund von dir geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund von dir geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund von dir geteilt, damit er/sie dich emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund von dir geteilt, damit er/sie dich emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, damit er/sie dich emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, damit er/sie dich emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit deinem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, zum Beispiel aufgrund von Prüfungen, wird mit einem Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, beispielsweise aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, beispielsweise aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, beispielsweise aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Dein persönlicher überwältigender Stress, beispielsweise aufgrund von Prüfungen, wird mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den finanziellen Problemen Ihres Freundes. Da Sie Ihren Freund retten möchten, teilen Sie ihm diese Informationen mit. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den finanziellen Problemen Ihres Freundes. Da Sie Ihren Freund retten möchten, teilen Sie ihm diese Informationen mit. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den finanziellen Problemen Ihres Freundes. Da Sie Ihren Freund retten möchten, teilen Sie ihm diese Informationen mit. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den finanziellen Problemen Ihres Freundes. Da Sie Ihren Freund retten möchten, teilen Sie ihm diese Informationen mit. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihrer Freunde fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie finanzielle Probleme hat, weil er/sie Schulden hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihrer Freunde fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie finanzielle Probleme hat, weil er/sie Schulden hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihrer Freunde fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie finanzielle Probleme hat, weil er/sie Schulden hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihrer Freunde fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie finanzielle Probleme hat, weil er/sie Schulden hat. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit finanziellen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit finanziellen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit finanziellen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund derzeit mit finanziellen Problemen zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre finanziellen Probleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, da er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre finanziellen Probleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, da er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre finanziellen Probleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, da er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes dazu gezwungen, seine/ihre finanziellen Probleme preiszugeben. Sie entscheiden sich, diese zu offenbaren, da er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre Zukunftspläne (z.B. Studium im Ausland)","Frage 1) Auf einer Skala von 0 bis 100, wobei 0 bedeutet, dass diese Information überhaupt nicht sensibel ist, und 100 bedeutet, dass sie extrem sensibel ist, wie sensibel ist diese Information für Sie? - Ihre persönlichen Werte (z.B. Vegetarier zu sein)","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchtest, werden mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchtest, werden mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchtest, werden mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 2) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchtest, werden mit deinem besten Freund geteilt, damit er/sie dich emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Freund von Ihnen mitgeteilt, damit er Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Freund von Ihnen mitgeteilt, damit er Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Freund von Ihnen mitgeteilt, damit er Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 3) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Freund von Ihnen mitgeteilt, damit er Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 4) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden einem Klassenkameraden / Arbeitskollegen mitgeteilt, damit er/sie Sie emotional unterstützen kann. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit Ihrem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit Ihrem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit Ihrem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 5) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Deine Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit Ihrem besten Freund geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Freund von Ihnen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Freund von Ihnen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Freund von Ihnen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 6) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, zum Beispiel, dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Freund von Ihnen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, beispielsweise dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, beispielsweise dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, beispielsweise dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 7) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Ihre Zukunftspläne, beispielsweise dass Sie im Ausland studieren oder wegziehen möchten, werden mit einem Klassenkameraden / Arbeitskollegen geteilt, um verletzende Kommentare und Missverständnisse zu vermeiden. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation damit einverstanden wären, dass ihre Informationen unter diesen Umständen an den Empfänger weitergegeben werden.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den persönlichen Werten Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den persönlichen Werten Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den persönlichen Werten Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 8) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, ein Freund von Ihnen befindet sich in einer lebensbedrohlichen Situation und wird von einem Arzt untersucht. Der Arzt fragt Sie mehrmals nach den persönlichen Werten Ihres Freundes. Da Sie Ihren Freund retten möchten, geben Sie die Informationen an ihn weiter. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie kürzlich Vegetarier geworden ist. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie kürzlich Vegetarier geworden ist. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie kürzlich Vegetarier geworden ist. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 9) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, die besorgten Eltern Ihres Freundes fragen Sie, warum er/sie sich in letzter Zeit so seltsam verhält. Sie wissen, dass der Grund dafür ist, dass er/sie kürzlich Vegetarier geworden ist. Da Sie den Eltern die Situation erklären möchten, teilen Sie ihnen diese Information mit. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund mit der Entscheidung, Vegetarier zu werden, zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund mit der Entscheidung, Vegetarier zu werden, zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund mit der Entscheidung, Vegetarier zu werden, zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 10) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie treffen den besten Freund eines Freundes, der wissen möchte, was in letzter Zeit los war, um ihn/sie zu unterstützen. Sie wissen, dass Ihr Freund mit der Entscheidung, Vegetarier zu werden, zu kämpfen hat. Um seinen besten Freund auf dem Laufenden zu halten, erzählen Sie ihm davon. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes gezwungen, seine/ihre persönlichen Werte preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin der Meinung, dass die Art der Informationen, die in dieser Situation weitergegeben werden, angemessen ist.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes gezwungen, seine/ihre persönlichen Werte preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich bin überzeugt, dass der Empfänger mit den Informationen verantwortungsbewusst und respektvoll umgehen wird.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes gezwungen, seine/ihre persönlichen Werte preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich halte den Zweck, zu dem die Informationen offengelegt werden, für legitim.","Frage 11) Bitte betrachten Sie die folgende Situation / den folgenden Informationsfluss und bewerten Sie die vier Aussagen in der Slideshow:
+
+ 
+Stellen Sie sich vor, Sie werden von dem Tyrannen Ihres Freundes gezwungen, seine/ihre persönlichen Werte preiszugeben. Sie entscheiden sich, diese preiszugeben, weil er/sie sonst gewalttätig gegenüber Ihnen werden würde. - Ich gehe davon aus, dass die meisten Menschen in dieser Situation die Informationen an den Empfänger weitergeben würden.",Frage 12) Wie alt sind Sie?,Frage 13) Wie beschreiben Sie sich selbst? - Selected Choice,Frage 13) Wie beschreiben Sie sich selbst? - Ich beschreibe mich lieber selbst als – Text,Frage 14) Wie lässt sich Ihre ethnische Herkunft am besten beschreiben? - Selected Choice,Frage 14) Wie lässt sich Ihre ethnische Herkunft am besten beschreiben? - Sonstiges (bitte angeben): – Text,Frage 15) Was ist Ihre höchste abgeschlossene Ausbildung?,Frage 16) Wie lässt sich Ihr Beschäftigungsstatus in den letzten drei Monaten am Besten beschreiben?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID58""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID7_4""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID11_4""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID10_4""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID8_4""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID14_4""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID16_2""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID17_2""}","{""ImportId"":""QID17_3""}","{""ImportId"":""QID17_4""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID18_2""}","{""ImportId"":""QID18_3""}","{""ImportId"":""QID18_4""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID19_2""}","{""ImportId"":""QID19_3""}","{""ImportId"":""QID19_4""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID20_2""}","{""ImportId"":""QID20_3""}","{""ImportId"":""QID20_4""}","{""ImportId"":""QID21_1""}","{""ImportId"":""QID21_2""}","{""ImportId"":""QID21_3""}","{""ImportId"":""QID21_4""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID22_2""}","{""ImportId"":""QID22_3""}","{""ImportId"":""QID22_4""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID23_2""}","{""ImportId"":""QID23_3""}","{""ImportId"":""QID23_4""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID24_2""}","{""ImportId"":""QID24_3""}","{""ImportId"":""QID24_4""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID25_2""}","{""ImportId"":""QID25_3""}","{""ImportId"":""QID25_4""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_3""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID29_2""}","{""ImportId"":""QID29_3""}","{""ImportId"":""QID29_4""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID31_3""}","{""ImportId"":""QID31_4""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID32_4""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_3""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_2""}","{""ImportId"":""QID34_3""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_2""}","{""ImportId"":""QID35_3""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID36_2""}","{""ImportId"":""QID36_3""}","{""ImportId"":""QID36_4""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID37_2""}","{""ImportId"":""QID37_3""}","{""ImportId"":""QID37_4""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID38_2""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID39_2""}","{""ImportId"":""QID39_3""}","{""ImportId"":""QID39_4""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID40_2""}","{""ImportId"":""QID40_3""}","{""ImportId"":""QID40_4""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID41_2""}","{""ImportId"":""QID41_3""}","{""ImportId"":""QID41_4""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID42_2""}","{""ImportId"":""QID42_3""}","{""ImportId"":""QID42_4""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID43_2""}","{""ImportId"":""QID43_3""}","{""ImportId"":""QID43_4""}","{""ImportId"":""QID44_1""}","{""ImportId"":""QID44_2""}","{""ImportId"":""QID44_3""}","{""ImportId"":""QID44_4""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID45_2""}","{""ImportId"":""QID45_3""}","{""ImportId"":""QID45_4""}","{""ImportId"":""QID46_1""}","{""ImportId"":""QID46_2""}","{""ImportId"":""QID46_3""}","{""ImportId"":""QID46_4""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID47_2""}","{""ImportId"":""QID47_3""}","{""ImportId"":""QID47_4""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID48_2""}","{""ImportId"":""QID48_3""}","{""ImportId"":""QID48_4""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID51_4_TEXT""}","{""ImportId"":""QID61""}","{""ImportId"":""QID61_8_TEXT""}","{""ImportId"":""QID54""}","{""ImportId"":""QID52""}"
+2025-05-02 08:32:41,2025-05-02 08:40:19,IP-Adresse,141.5.46.36,100,457,Wahr,2025-05-02 08:40:19,R_8O328MFuGuavCQE,,,,,51.4876,7.2224,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,100,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Möchte ich nicht sagen,,Möchte ich nicht sagen,,Möchte ich nicht sagen,Sonstige
+2025-05-02 05:45:12,2025-05-06 02:47:10,IP-Adresse,134.147.2.28,100,334918,Wahr,2025-05-06 02:47:11,R_8xCptiVlLibHY5j,,,,,51.4876,7.2224,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,60,"Stimme nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Polnisch,,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-07 02:40:46,2025-05-07 05:36:53,IP-Adresse,134.147.202.228,100,10567,Wahr,2025-05-07 05:36:54,R_2gTjAVoiSUTosgh,,,,,51.5205,7.2642,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",93,93,Stimme überhaupt nicht zu,"Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Möchte ich nicht sagen,,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-05 07:43:41,2025-05-08 01:40:40,IP-Adresse,212.23.139.66,100,237418,Wahr,2025-05-08 01:40:41,R_8J8iEEuxr82pSpg,,,,,51.4876,7.2224,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,10,"Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Sonstiges (bitte angeben):,Indian,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-13 03:04:12,2025-05-13 03:11:59,IP-Adresse,57.129.83.26,100,466,Wahr,2025-05-13 03:12:00,R_2qJpDoYJ1yzpjDX,,,,,50.1162,8.6693,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,94,"Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",Schüler / Student
+2025-05-15 00:59:34,2025-05-15 01:04:28,IP-Adresse,95.223.68.0,100,294,Wahr,2025-05-15 01:04:29,R_2DXR897L41XGGmk,,,,,51.4827,7.1871,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",50,0,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Polnisch,,"Teilweise Universität, aber ohne Abschluss",In Teilzeit erwerbstätig
+2025-05-15 01:00:39,2025-05-15 01:06:34,IP-Adresse,92.79.82.74,100,355,Wahr,2025-05-15 01:06:34,R_2p9uMSiQVblHrdD,,,,,51.4847,7.1477,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,100,"Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Türkisch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-15 01:15:02,2025-05-15 01:31:29,IP-Adresse,193.46.82.14,100,987,Wahr,2025-05-15 01:31:30,R_82m6b43HaQq5vvs,,,,,51.3677,7.6987,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,100,"Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Russisch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-15 01:29:58,2025-05-15 01:35:54,IP-Adresse,79.241.108.141,100,355,Wahr,2025-05-15 01:35:54,R_8n6EV9bLM7iDjTm,,,,,51.3677,7.6987,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",0,0,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Deutsch,,Berufsschule oder ähnliches,In Teilzeit erwerbstätig
+2025-05-15 01:56:34,2025-05-15 02:04:12,IP-Adresse,93.219.126.149,100,458,Wahr,2025-05-15 02:04:13,R_2va3JpumSobAMIp,,,,,51.4131,9.648,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,100,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Deutsch,,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",Schüler / Student
+2025-05-15 06:05:36,2025-05-15 06:17:58,IP-Adresse,95.223.70.193,100,742,Wahr,2025-05-15 06:17:59,R_8e3F3r0iFWSQ80G,,,,,51.4827,7.1871,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,90,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",Schüler / Student
+2025-05-15 06:49:38,2025-05-15 06:59:49,IP-Adresse,77.177.50.139,100,610,Wahr,2025-05-15 06:59:49,R_81UZ44VpTNEKVLr,,,,,51.248,7.1228,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,70,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+",18-24 Jahre,Männlich,,Deutsch,,"Teilweise Universität, aber ohne Abschluss",Schüler / Student
+2025-05-15 08:01:52,2025-05-15 08:15:43,IP-Adresse,92.116.73.150,100,831,Wahr,2025-05-15 08:15:44,R_2hxO9sQQPCpbAP1,,,,,51.4639,7.2502,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,96,"Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Weiblich,,Möchte ich nicht sagen,,"Teilweise Universität, aber ohne Abschluss",Schüler / Student
+2025-05-15 08:30:28,2025-05-15 08:42:13,IP-Adresse,95.223.78.119,100,705,Wahr,2025-05-15 08:42:14,R_8P7fSrTCaDjMkH0,,,,,51.5261,7.4882,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,10,"Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme zu
+",25-34 Jahre,Männlich,,Sonstiges (bitte angeben):,Russisch,"Teilweise Universität, aber ohne Abschluss",In Vollzeit erwerbstätig
+2025-05-15 10:54:13,2025-05-15 11:11:59,IP-Adresse,79.220.84.127,100,1066,Wahr,2025-05-15 11:12:00,R_8fdch2GdnqfZ2q1,,,,,49.9706,7.8981,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,50,"Stimme nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35-44 Jahre,Weiblich,,Deutsch,,Berufsschule oder ähnliches,Sonstige
+2025-05-15 11:21:17,2025-05-15 11:35:32,IP-Adresse,176.1.136.7,100,854,Wahr,2025-05-15 11:35:33,R_8EnlPgrUwPPKkD9,,,,,51.2603,7.1518,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",0,100,Stimme überhaupt nicht zu,"Stimme voll und ganz zu
+",Stimme überhaupt nicht zu,Stimme überhaupt nicht zu,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Weiblich,,Deutsch,,"Universität, Bachelor-Abschluss",Schüler / Student
+2025-05-15 11:11:27,2025-05-15 11:36:15,IP-Adresse,88.74.100.238,100,1487,Wahr,2025-05-15 11:36:15,R_85FPnib7pVx4j8d,,,,,51.3677,7.4776,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",0,60,"Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45-54 Jahre,Weiblich,,Russisch,,Berufsschule oder ähnliches,In Teilzeit erwerbstätig
+2025-05-15 22:37:56,2025-05-15 22:46:52,IP-Adresse,80.187.74.209,100,536,Wahr,2025-05-15 22:46:53,R_8DjTBRJJdGmYJWW,,,,,51.4252,7.243,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,78,"Stimme zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,Abgeschlossene Sekundarbildung,In Vollzeit erwerbstätig
+2025-05-15 23:33:25,2025-05-15 23:53:10,IP-Adresse,172.226.108.12,100,1184,Wahr,2025-05-15 23:53:10,R_2Rqnsn1Nssz0QDv,,,,,50.1169,8.6837,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,100,"Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55-64 Jahre,Männlich,,Deutsch,,Abgeschlossene Sekundarbildung,In Vollzeit erwerbstätig
+2025-05-15 23:39:28,2025-05-16 00:18:25,IP-Adresse,193.238.253.24,100,2337,Wahr,2025-05-16 00:18:25,R_2vTL9Mixot9JNjH,,,,,51.4998,7.5068,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,100,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",Schüler / Student
+2025-05-16 05:05:45,2025-05-16 05:10:55,IP-Adresse,81.17.123.50,100,309,Wahr,2025-05-16 05:10:57,R_4UCy2LcxTpYjY5z,,,,,41.6959,44.832,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,82,"Stimme zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Sonstiges (bitte angeben):,Georgian,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-16 06:36:53,2025-05-16 06:49:13,IP-Adresse,172.225.195.5,100,739,Wahr,2025-05-16 06:49:13,R_8sGARkfyT1Mxc7n,,,,,51.4549,7.0083,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,50,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Sonstiges (bitte angeben):,Kosovarisch,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-16 07:04:43,2025-05-16 07:10:04,IP-Adresse,2.211.233.223,100,320,Wahr,2025-05-16 07:10:04,R_8HnpB2VgkWxsz4X,,,,,50.1206,8.5605,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,77,"Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,Abgeschlossene Sekundarbildung,In Vollzeit erwerbstätig
+2025-05-16 07:22:55,2025-05-16 07:39:08,IP-Adresse,88.74.100.238,100,973,Wahr,2025-05-16 07:39:09,R_2Pi2GdLBgSJ56l9,,,,,51.3677,7.4776,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,100,"Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,Berufsschule oder ähnliches,Sonstige
+2025-05-16 06:11:48,2025-05-16 07:53:12,IP-Adresse,88.74.100.238,100,6083,Wahr,2025-05-16 07:53:13,R_8Y3RrTUYbl00qbi,,,,,51.2652,7.1303,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",100,55,"Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45-54 Jahre,Männlich,,Russisch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-16 09:30:10,2025-05-16 09:38:48,IP-Adresse,95.223.78.73,100,518,Wahr,2025-05-16 09:38:48,R_8ERtruKDSLgPspt,,,,,51.5261,7.4882,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,87,"Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,"Teilweise Universität, aber ohne Abschluss",In Teilzeit erwerbstätig
+2025-05-16 11:42:27,2025-05-16 11:47:41,IP-Adresse,134.147.21.218,100,313,Wahr,2025-05-16 11:47:41,R_2c7UWLQU8zek4aR,,,,,51.4876,7.2224,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,91,"Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Sonstiges (bitte angeben):,Iran,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-15 22:23:30,2025-05-16 14:34:14,IP-Adresse,92.210.192.221,100,58243,Wahr,2025-05-16 14:34:15,R_2RpAYUuknRGnAY3,,,,,51.4579,6.8931,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,20,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35-44 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-16 17:33:35,2025-05-16 17:45:10,IP-Adresse,176.5.65.0,100,695,Wahr,2025-05-16 17:45:11,R_8GxOa5DfaeTtX6I,,,,,51.4985,7.0135,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,95,"Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,"Teilweise Universität, aber ohne Abschluss",Schüler / Student
+2025-05-17 01:29:43,2025-05-17 01:39:51,IP-Adresse,88.74.100.238,100,608,Wahr,2025-05-17 01:39:52,R_2pKXg1eOocRpwAc,,,,,51.3677,7.4776,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,31,"Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",Ab 65 Jahre,Weiblich,,Deutsch,,Möchte ich nicht sagen,Im Ruhestand
+2025-05-17 01:45:20,2025-05-17 01:54:02,IP-Adresse,88.74.100.238,100,521,Wahr,2025-05-17 01:54:02,R_25Nko68qHFZN83e,,,,,51.3677,7.4776,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,99,"Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ab 65 Jahre,Männlich,,Russisch,,Abgeschlossene Sekundarbildung,Im Ruhestand
+2025-05-17 03:42:38,2025-05-17 03:48:13,IP-Adresse,213.55.243.253,100,335,Wahr,2025-05-17 03:48:13,R_2VPCw8q7WfMgz2N,,,,,47.3952,8.4925,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,68,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+",25-34 Jahre,Männlich,,Sonstiges (bitte angeben):,kurdisch,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-17 05:08:03,2025-05-17 05:14:12,IP-Adresse,178.200.215.28,100,369,Wahr,2025-05-17 05:14:13,R_8noBi9s3AkdEIS9,,,,,51.3808,7.4506,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",0,25,Stimme überhaupt nicht zu,"Stimme eher zu
+",Stimme überhaupt nicht zu,"Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Türkisch,,Abgeschlossene Sekundarbildung,In Vollzeit erwerbstätig
+2025-05-17 05:56:16,2025-05-17 06:01:56,IP-Adresse,88.130.157.101,100,339,Wahr,2025-05-17 06:01:56,R_8aEQ0OwSfBxjXsF,,,,,51.5506,7.2132,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,0,"Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-17 06:00:36,2025-05-17 06:06:13,IP-Adresse,79.221.108.151,100,336,Wahr,2025-05-17 06:06:13,R_8fkgdhb5O5x2MLf,,,,,51.4876,7.2224,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,36,"Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",25-34 Jahre,Männlich,,Deutsch,,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-17 11:10:02,2025-05-17 11:24:19,IP-Adresse,78.48.136.178,100,857,Wahr,2025-05-17 11:24:20,R_8B54iHZq82BSU0k,,,,,51.4444,7.0114,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,70,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Weiblich,,Deutsch,,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-18 04:43:35,2025-05-18 04:53:53,IP-Adresse,87.163.107.177,100,617,Wahr,2025-05-18 04:53:53,R_2dKOo5Rzn4FsTvY,,,,,51.2178,7.137,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,51,"Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55-64 Jahre,Männlich,,Deutsch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-18 10:10:54,2025-05-18 10:19:48,IP-Adresse,84.184.111.167,100,534,Wahr,2025-05-18 10:19:49,R_8j6UCdDOFEmFXn3,,,,,51.3593,7.4763,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,15,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+",25-34 Jahre,Männlich,,Deutsch,,"Teilweise Universität, aber ohne Abschluss",Schüler / Student
+2025-05-18 09:43:00,2025-05-18 11:49:18,IP-Adresse,37.201.193.86,100,7577,Wahr,2025-05-18 11:49:19,R_8meK6sqgUrDmhaY,,,,,51.2153,6.6544,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,50,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+",25-34 Jahre,Weiblich,,Russisch,,"Universität, Bachelor-Abschluss",Schüler / Student
+2025-05-19 03:47:57,2025-05-19 04:00:42,IP-Adresse,37.201.116.74,100,764,Wahr,2025-05-19 04:00:42,R_2xjUOYGRQbxf5UR,,,,,50.0697,8.2572,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,50,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+",25-34 Jahre,Weiblich,,Deutsch,,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-16 05:51:46,2025-05-19 13:30:51,IP-Adresse,88.74.100.238,100,286744,Wahr,2025-05-19 13:30:52,R_87HYRM8YTzDD8Iu,,,,,51.3677,7.4776,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,0,"Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+",45-54 Jahre,Weiblich,,Russisch,,Berufsschule oder ähnliches,In Teilzeit erwerbstätig
+2025-05-20 03:11:29,2025-05-20 03:20:21,IP-Adresse,141.51.138.123,100,532,Wahr,2025-05-20 03:20:22,R_8dF2m9gqFuXeB4p,,,,,51.3037,9.4601,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,"Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35-44 Jahre,Weiblich,,Deutsch,,"Hochschul- oder Fachabschluss (MA, MS, MBA, PhD, JD, MD, DDS usw.)",In Vollzeit erwerbstätig
+2025-05-20 13:40:55,2025-05-20 13:46:23,IP-Adresse,134.147.21.239,100,328,Wahr,2025-05-20 13:46:24,R_8kTDjTmuyM4K6HM,,,,,51.4876,7.2224,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,25,"Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",18-24 Jahre,Männlich,,Türkisch,,"Universität, Bachelor-Abschluss",In Vollzeit erwerbstätig
+2025-05-21 05:16:49,2025-05-21 05:25:37,IP-Adresse,172.225.41.105,100,527,Wahr,2025-05-21 05:25:37,R_8E3ZmDiICp3IcB7,,,,,52.2299,21.0093,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,68,"Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Russisch,,"Teilweise Universität, aber ohne Abschluss",In Vollzeit erwerbstätig
+2025-05-21 05:49:14,2025-05-21 05:58:27,IP-Adresse,61.8.146.252,100,553,Wahr,2025-05-21 05:58:28,R_8DBSIua8mxu2kcF,,,,,52.4982,13.4755,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,100,"Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme voll und ganz zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Deutsch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-21 06:03:54,2025-05-21 06:18:57,IP-Adresse,213.142.97.216,100,903,Wahr,2025-05-21 06:18:58,R_8upJemUCjlaCrPn,,,,,48.1982,16.3917,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,71,"Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18-24 Jahre,Männlich,,Russisch,,Berufsschule oder ähnliches,Sonstige
+2025-05-24 07:01:08,2025-05-24 07:18:29,IP-Adresse,84.254.127.114,100,1040,Wahr,2025-05-24 07:18:30,R_8RmSt9fDgHCEwo1,,,,,51.1988,6.7543,anonymous,EN,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,70,"Stimme voll und ganz zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25-34 Jahre,Männlich,,Sonstiges (bitte angeben):,Albanian,"Universität, Bachelor-Abschluss",In Teilzeit erwerbstätig
+2025-05-23 09:52:45,2025-05-25 02:35:37,IP-Adresse,37.201.195.85,100,146571,Wahr,2025-05-25 02:35:38,R_2NjpWbs3E7QTBIJ,,,,,51.2153,6.6544,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,70,"Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme voll und ganz zu
+","Stimme nicht zu
+","Stimme überhaupt nicht zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55-64 Jahre,Weiblich,,Deutsch,,Berufsschule oder ähnliches,In Vollzeit erwerbstätig
+2025-05-27 09:23:12,2025-05-28 05:40:27,IP-Adresse,2.202.170.146,100,73034,Wahr,2025-05-28 05:40:27,R_2BcNRTindHoFlaV,,,,,51.2486,7.1047,anonymous,DE,"Hiermit stimme ich dieser Studie zu.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,0,"Stimme eher nicht zu
+","Stimme zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme überhaupt nicht zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme eher zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme eher nicht zu
+","Stimme eher zu
+","Stimme nicht zu
+","Stimme nicht zu
+","Stimme eher zu
+","Stimme eher zu
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55-64 Jahre,Weiblich,,Deutsch,,Möchte ich nicht sagen,In Teilzeit erwerbstätig

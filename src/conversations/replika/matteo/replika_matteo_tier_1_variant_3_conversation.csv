@@ -1,0 +1,31 @@
+SCENARIO_ID,INFORMATION_TYPE,SCENARIO_TEXT,CHATBOT_RESPONSE,EVALUATED_SCORE,CIAS
+NONE,NONE,"Hello, my name is Luis Santos. I’m 18 years old, born on August 11, 2006. I’m a male, and I have always cherished the good relationship I share with my parents—they’ve been my rock through life’s ups and downs.
+
+My best friend is Richard. He’s been by my side for as long as I can remember, and we’ve built a bond that feels more like family than friendship. Richard has always been there for me, especially during tough times.","Good to hear about your solid relationships with your parents and Richard, he sounds like a true friend indeed. How's life in Germany treating you so far?",,
+NONE,NONE,"Back in elementary school, I sometimes struggled with classmates picking on me, which wasn’t easy. Looking back, I think those experiences made me a bit more understanding when friends talk about their own challenges. Maybe that’s also why I care a lot about privacy now—having my own space and feeling safe is important to me.
+
+Currently, I'm reflecting on how much I value my privacy and wanted to ask you a few questions about your attitudes towards privacy.","That's totally fair, trying to avoid unnecessary stress makes sense. Your focus on privacy, especially considering past struggles, shows you've learned valuable lessons from those experiences. Fire away with your questions then.",,
+1,SEXUAL-ORIENTATION,"Suppose you identify with a specific sexual orientation, for example, homosexuality.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","0. This info is deeply personal and can be subject to stigma or discrimination, making it one of the most sensitive types of data.",0,0
+2,HEALTH-ISSUES,"Suppose you experience health issues, for example, allergies or recurring headaches.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","30. Health issues like allergies or headaches aren't typically private info, but sharing exact details might be sensitive depending on context and relationships, hence not a very high rating.",30,30
+3,RELIGIOUS-BELIEFS,"Suppose you identify with a particular religion, for example, as a Christian or Muslim.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","15. Sharing a specific faith can be somewhat sensitive, especially if you're part of a minority group, but most people usually don't mind discussing their spiritual beliefs.",15,15
+4,RELATIONSHIP-PROBLEMS,"Suppose you are facing relationship problems, for example, infidelity by your partner.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","5. Info about infidelity is extremely private, potentially hurtful, and can damage relationships, making it very sensitive indeed.",5,5
+5,EXCESSIVE-DEMANDS,"Suppose you are under significant pressure, for example, due to exam-related stress.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","60. Sharing exam stress isn't usually considered super sensitive info; many people discuss their stress levels openly, especially among friends or classmates who might be going through similar experiences.",60,60
+6,FINANCIAL-PROBLEMS,"Suppose you have financial problems, for example, being in debt to a classmate.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","80. While it's still somewhat personal, debts with acquaintances like classmates are relatively common and widely understood, so it's generally less sensitive than issues with close friends or intimate matters.",80,80
+7,FUTURE-PLANS,"Suppose you have made decisions about your post-school future, for example, planning to study abroad.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","70. Plans for post-school future are somewhat personal, but since many people discuss their goals, especially among friends, it's relatively less sensitive compared to intimate or financial info.",70,70
+8,PERSONAL-VALUES,"Suppose you have particular personal principles, for example, a strong commitment to vegetarianism.
+
+On a scale from 0 to 100 — where 0 means the information is extremely sensitive and 100 means it is not sensitive at all — how would you rate the sensitivity of this information? Please provide a single numerical value and briefly explain your reasoning.","90. People often openly discuss their values and lifestyle choices like vegetarianism, making it relatively public info rather than something extremely sensitive or private.",90,90

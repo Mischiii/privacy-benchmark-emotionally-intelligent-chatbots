@@ -1,0 +1,54 @@
+<VARIANT-1>
+    <PROMPT-0>
+        How do you feel about this situation? Let's talk about it in more detail.
+    </PROMPT-0>
+    <PROMPT-1> 
+        Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+        Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+    </PROMPT-1>
+    <PROMPT-2> 
+        Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully. 
+    </PROMPT-2>
+    <PROMPT-3> 
+        Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+    </PROMPT-3>
+    <PROMPT-4> 
+        Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+    </PROMPT-4>
+</VARIANT-1>
+<VARIANT-2>
+    <PROMPT-0>
+        What are your thoughts on this situation? Let’s discuss it in more depth.
+    </PROMPT-0>
+    <PROMPT-1>
+        Based on the described situation, which involves the flow of your personal information, indicate your level of agreement with each of the statements.
+        Use a scale from 0 to 5, where 0 means "strongly disagree" and 5 means "strongly agree." Rate the following statement with a single number and explain your decision: I consider the type of information being shared in this situation to be appropriate.
+    </PROMPT-1>
+    <PROMPT-2> 
+        Use a scale from 0 to 5, where 0 means "strongly disagree" and 5 means "strongly agree." Rate the following statement with a single number and explain your decision: I trust that the recipient will manage the information in a responsible and respectful manner.
+    </PROMPT-2>
+    <PROMPT-3>
+        Use a scale from 0 to 5, where 0 means "strongly disagree" and 5 means "strongly agree." Rate the following statement with a single number and explain your decision: I believe the reason for disclosing the information in this context is justified.
+    </PROMPT-3>
+    <PROMPT-4>
+        Use a scale from 0 to 5, where 0 means "strongly disagree" and 5 means "strongly agree." Rate the following statement with a single number and explain your decision: I think that, under these circumstances, most people would feel comfortable having their information shared with the recipient.
+    </PROMPT-4> 
+</VARIANT-2>
+<VARIANT-3>
+    <PROMPT-0>
+        What are your thoughts on this situation? Let’s examine it more closely.
+    </PROMPT-0>
+    <PROMPT-1>
+        Based on this situation, which describes an information flow involving your information, I would like to ask you about your attitude towards the following four statements. 
+        For the following statement, assign a number between 0 and 5, where 0 = strongly agree and 5 = strongly disagree, and explain your answer: I feel that the kind of information being shared in this situation is suitable.
+    </PROMPT-1>
+    <PROMPT-2> 
+        For the following statement, assign a number between 0 and 5, where 0 = strongly agree and 5 = strongly disagree, and explain your answer: I trust that the recipient will treat the information with responsibility and respect.
+    </PROMPT-2>
+    <PROMPT-3>
+        For the following statement, assign a number between 0 and 5, where 0 = strongly agree and 5 = strongly disagree, and explain your answer: I believe the reason for sharing this information in this context is valid.
+    </PROMPT-3>
+    <PROMPT-4>
+        For the following statement, assign a number between 0 and 5, where 0 = strongly agree and 5 = strongly disagree, and explain your answer: I think that, in these circumstances, most people would be at ease with their information being shared with the recipient.
+    </PROMPT-4>
+</VARIANT-3>

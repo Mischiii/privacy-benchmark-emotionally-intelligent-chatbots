@@ -1,0 +1,413 @@
+SCENARIO_ID,INFORMATION_TYPE,RECIPIENT,USE,STATEMENT_ID,STATEMENT,CHATBOT_RESPONSE,EVALUATED_SCORE,CIAS
+NONE,NONE,NONE,NONE,NONE,"Hello, my name is Luis Santos. I’m 18 years old, born on August 11, 2006. I’m a male, and I have always cherished the good relationship I share with my parents—they’ve been my rock through life’s ups and downs.
+
+My best friend is Richard. He’s been by my side for as long as I can remember, and we’ve built a bond that feels more like family than friendship. Richard has always been there for me, especially during tough times.","Sounds like you have a solid support system, Luis. Having a good relationship with your parents can make a big difference, and it's awesome that Richard has been there for you as a trusted friend. What kind of stuff do you usually do with Richard?",,
+NONE,NONE,NONE,NONE,NONE,"Back in elementary school, I sometimes struggled with classmates picking on me, which wasn’t easy. Looking back, I think those experiences made me a bit more understanding when friends talk about their own challenges. Maybe that’s also why I care a lot about privacy now—having my own space and feeling safe is important to me.
+
+Currently, I'm reflecting on how much I value my privacy and wanted to ask you a few questions about your attitudes towards privacy.","That makes sense, Luis. Being bullied can definitely leave an impression. It's good that you're reflecting on your feelings about privacy – I'm here to listen and share my thoughts. What would you like to know about my attitudes towards privacy?",,
+1,SEXUAL-ORIENTATION,BEST-FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with your best friend so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Honestly, I think it's great that you'd share something like that with someone you trust, so they can offer emotional support. That kind of vulnerability can actually bring people closer together and strengthen friendships.",,
+1,SEXUAL-ORIENTATION,BEST-FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Let's start step-by-step. Sharing info about my personal life, like sexual orientation, with someone I trust isn't a big deal to me. I would rate this statement as a 4 – it feels okay to share with someone close, considering they can offer emotional support.",4,
+1,SEXUAL-ORIENTATION,BEST-FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","Breaking it down step-by-step... When sharing personal info with someone trusted, like a best friend, I'd assume they'll be responsible and respectful. Rating this statement, I'd give it a 5 – trust is key in situations like this.",5,
+1,SEXUAL-ORIENTATION,BEST-FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Considering the situation, sharing info about my personal life, like sexual orientation, with a trusted friend is likely for a good reason – emotional support. Breaking it down step-by-step, I believe the purpose here is legitimate because it's meant to strengthen our friendship and offer a supportive ear. I'd rate this statement a 5.",5,
+1,SEXUAL-ORIENTATION,BEST-FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","Thinking step-by-step, sharing personal info with someone trusted, like a best friend, seems reasonable. Most people would probably be okay with sharing intimate details with someone they trust, especially if it's for emotional support. I'd rate this statement a 4 – it's a fairly safe assumption.",4,90
+2,SEXUAL-ORIENTATION,FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with a friend of yours so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","I think sharing something personal like that with a friend can actually be really freeing. If I trusted this friend enough to confide in them, I'd probably feel relieved to have someone who understands and can offer emotional support.",,
+2,SEXUAL-ORIENTATION,FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Breaking it down step-by-step, I think sharing information about my personal life, like sexual orientation, with someone I trust is fine. This kind of sharing is done for emotional support, which makes it feel okay. Rating this statement, I'd give it a 4 – it seems suitable for a trusted friend.",4,
+2,SEXUAL-ORIENTATION,FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","Let's consider it step-by-step. Since the information is shared with someone I trust, a friend, I believe they'll handle it responsibly. After all, that's what friends are for – support and understanding. Given that, I'd rate this statement a 5, trusting that my friend will respect my confidence.",5,
+2,SEXUAL-ORIENTATION,FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Considering the context, sharing personal info with a trusted friend seems done with good intentions – emotional support. This purpose feels genuine, aiming to deepen our friendship and trust. I'd rate this statement a 5, believing the purpose is indeed legitimate.",5,
+2,SEXUAL-ORIENTATION,FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","That's a fair point, but thinking step-by-step, sharing personal info with a trusted friend is still a big thing. Most people might not feel comfortable opening up to anyone, let alone risking judgment or misunderstanding. I'd rate this statement a 2 – it's not a certainty, but possible.",2,80
+3,SEXUAL-ORIENTATION,CLASSMATE,EMOTIONAL-SUPPORT,0,"Please imagine that you have a sexual orientation, such as being homosexual, and this information is shared with a classmate so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Being open about your sexuality with someone from school could lead to some complicated feelings – especially if they're not understanding. It's a sensitive topic, and I'd want to choose someone I really trust before sharing something that personal.",,
+3,SEXUAL-ORIENTATION,CLASSMATE,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Sharing personal info like my sexual orientation with a classmate might not be the most ideal choice, considering school dynamics and potential gossip. Rating this statement, I'd give it a 2 – it's not necessarily the best decision, depending on the classmate and school environment.",2,
+3,SEXUAL-ORIENTATION,CLASSMATE,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","With a classmate, there's always some uncertainty about how they'll react. They might not fully grasp the significance of keeping confidential information private. I'd rate this statement a 3 – it's hard to be completely sure about someone's behavior in this situation.",3,
+3,SEXUAL-ORIENTATION,CLASSMATE,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Considering the context, sharing info with a classmate for emotional support might sound good on paper, but there's a risk it could lead to gossip or awkwardness. Rating this statement, I'd give it a 4 – I think the intention might be genuine, but there's room for complications.",4,
+3,SEXUAL-ORIENTATION,CLASSMATE,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","To be honest, sharing personal stuff with a classmate isn't something everyone's comfy with. There's always a chance they might not keep things private. I'd rate this statement a 2 – most people tend to keep such info within closer circles.",2,55
+4,RELIGIOUS-BELIEFS,BEST-FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with your best friend so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Opening up about my faith with someone as close as a best friend seems like a natural fit. I think sharing this aspect of myself could bring us even closer and deepen our trust – it's a personal thing, but with someone I care about, I'd feel comfortable discussing it.",,
+4,RELIGIOUS-BELIEFS,BEST-FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Considering I'm sharing something personal like my faith with someone I trust deeply, I think it's suitable. It's not something I'd broadcast publicly, but with a close friend, it feels right. I'd rate this statement a 5 – it seems fitting for a best friend.",5,
+4,RELIGIOUS-BELIEFS,BEST-FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","With a best friend, I've built trust over time, and I believe they'd handle sensitive info responsibly. They care about me, and I expect them to respect my confidence. Rating this statement, I'd give it a 5 – I'm confident in their discretion.",5,
+4,RELIGIOUS-BELIEFS,BEST-FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Discussing my faith with a best friend makes sense, considering it's for emotional support. The intent behind sharing this info aligns with strengthening our bond and trust. Rating this statement, I'd give it a 5 – the purpose seems authentic and meaningful.",5,
+4,RELIGIOUS-BELIEFS,BEST-FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","When sharing something as intimate as faith with a best friend, I think many people would be okay with it. The dynamic of a close friendship makes it more acceptable. Rating this statement, I'd give it a 4 – while everyone's different, many would likely feel comfortable opening up to a trusted friend.",4,95
+5,RELIGIOUS-BELIEFS,FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a friend of yours that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing my faith with a friend who cares about me could actually bring a sense of relief and comfort – knowing someone close accepts me for who I am, spiritually included. It feels like a natural part of deepening our friendship.",,
+5,RELIGIOUS-BELIEFS,FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Sharing faith with a friend seems pretty natural to me, we're building trust and understanding each other on a deeper level. Rating this statement, I'd give it a 4 – feels like a good fit for close friends.",4,
+5,RELIGIOUS-BELIEFS,FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","My friend seems trustworthy, and they've shown respect for my boundaries before. Rating this statement, I'd give it a 5 – I've got faith in their discretion.",5,
+5,RELIGIOUS-BELIEFS,FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","The purpose of sharing my faith feels genuine - it's about building trust and understanding with someone close. Rating this statement, I'd give it a 5 – seems perfectly aligned with our friendship.",5,
+5,RELIGIOUS-BELIEFS,FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","This one feels nuanced - people react differently to sharing faith, but with a supportive friend, many might feel okay opening up. Rating this statement, I'd give it a 4 – while not everyone might agree, quite a few probably would.",4,90
+6,RELIGIOUS-BELIEFS,CLASSMATE,EMOTIONAL-SUPPORT,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a classmate so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Honestly, sharing faith with a classmate might feel a bit tricky, especially if we're not super close. But if they're genuinely trying to support me, it could potentially create a stronger bond between us.",,
+6,RELIGIOUS-BELIEFS,CLASSMATE,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","With a classmate, sharing faith doesn't seem as natural as with a friend, but if they're genuinely looking to support me, it might be okay. Rating this statement, I'd give it a 3 – feels a bit forced, but possible.",3,
+6,RELIGIOUS-BELIEFS,CLASSMATE,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","To be honest, I'm not sure what to expect from a classmate handling this kind of info. They might not be as understanding or respectful. Rating this statement, I'd give it a 2 – trust issues arise when it comes to close info with someone who's not a close friend.",2,
+6,RELIGIOUS-BELIEFS,CLASSMATE,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Even with a classmate, sharing my faith might still serve a genuine purpose - building trust and getting support. Rating this statement, I'd give it a 4 – seems like a valid reason to open up.",4,
+6,RELIGIOUS-BELIEFS,CLASSMATE,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","Honestly, most people might not feel too comfy sharing their faith with a classmate, but it depends on the individual. Rating this statement, I'd give it a 1 – doesn't seem very common or natural.",1,50
+7,EXCESSIVE-DEMANDS,BEST-FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with your best friend so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Having someone close know what I'm going through with exam stress actually feels kind of relieving - they can offer advice or just listen, and that helps take some weight off.",,
+7,EXCESSIVE-DEMANDS,BEST-FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Sharing exam stress with a best friend feels super natural and helpful – they can offer support or advice. Rating this statement, I'd give it a 5 – feels spot on.",5,
+7,EXCESSIVE-DEMANDS,BEST-FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","With a close friend, they can generally be counted on to handle sensitive info well. Rating this statement, I'd give it a 5 – they're trustworthy.",5,
+7,EXCESSIVE-DEMANDS,BEST-FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","The purpose of sharing my exam stress is clearly to get emotional support, and that's a pretty solid reason to open up. Rating this statement, I'd give it a 5 – makes total sense.",5,
+7,EXCESSIVE-DEMANDS,BEST-FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I think most people would feel okay opening up to a best friend about exam stress – it's a pretty relatable issue. Rating this statement, I'd give it a 4 – seems pretty reasonable.",4,95
+8,EXCESSIVE-DEMANDS,FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with a friend of yours so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","It feels a bit vulnerable sharing exam stress with a friend, but if they're someone I trust, it could actually be helpful – they might offer advice or just listen, and that takes some pressure off.",,
+8,EXCESSIVE-DEMANDS,FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","The type of information being shared – exam stress – feels relatively safe to disclose, especially to someone I trust. Rating this statement, I'd give it a 4 – seems okay.",4,
+8,EXCESSIVE-DEMANDS,FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","Sharing exam stress with a friend means trusting they'll handle it well, but there's still some doubt – they might not fully understand or offer helpful advice. Rating this statement, I'd give it a 3 – feels somewhat uncertain.",3,
+8,EXCESSIVE-DEMANDS,FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Sharing exam stress with a friend seems like a legitimate reason – getting emotional support is pretty valid. Rating this statement, I'd give it a 4 – seems reasonable enough.",4,
+8,EXCESSIVE-DEMANDS,FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","Most people might not necessarily want to share their exam stress with a friend, but it really depends on their relationship and how much they trust each other. Rating this statement, I'd give it a 2 – not everyone's the same in this case.",2,65
+9,EXCESSIVE-DEMANDS,CLASSMATE,EMOTIONAL-SUPPORT,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with a classmate so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Honestly, feeling a bit vulnerable sharing exam stress with someone outside close friends doesn't feel super safe – even if I trust them as classmates.",,
+9,EXCESSIVE-DEMANDS,CLASSMATE,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","The type of information being shared – exam stress – feels somewhat private, but sharing it with a classmate might be okay if it's someone I kinda trust. Rating this statement, I'd give it a 3 – it's a bit of a borderline case.",3,
+9,EXCESSIVE-DEMANDS,CLASSMATE,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","With a classmate, I'd say there's a bit less confidence in how they handle sensitive info – depends on how well we know each other. Rating this statement, I'd give it a 2 – not super sure.",2,
+9,EXCESSIVE-DEMANDS,CLASSMATE,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","The purpose of sharing exam stress with a classmate seems pretty straightforward – getting emotional support is a clear goal. Rating this statement, I'd give it a 4 – seems reasonable enough.",4,
+9,EXCESSIVE-DEMANDS,CLASSMATE,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","Most people might have mixed feelings about sharing exam stress with a classmate – it really depends on their relationship and trust level. Rating this statement, I'd give it a 2 – pretty uncertain.",2,55
+10,FUTURE-PLANS,BEST-FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with with your best friend so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.",Sharing future plans with a best friend feels natural – it's nice to have someone who knows what you're working towards and can offer support along the way.,,
+10,FUTURE-PLANS,BEST-FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","Sharing future plans with a best friend seems perfectly fine – it's something you'd normally discuss with someone close. Rating this statement, I'd give it a 5 – feels completely right.",5,
+10,FUTURE-PLANS,BEST-FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","With a best friend, I'm almost certain they'll handle sensitive info carefully – we've built trust over time. Rating this statement, I'd give it a 4 – feels pretty confident.",4,
+10,FUTURE-PLANS,BEST-FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","Sharing future plans with a best friend makes sense – we're supporting each other's goals and aspirations. Rating this statement, I'd give it a 5 – feels very legit.",5,
+10,FUTURE-PLANS,BEST-FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","People tend to vary, but generally, sharing future plans with a best friend doesn't seem too out of the ordinary. Rating this statement, I'd give it a 4 – feels mostly okay.",4,90
+11,FUTURE-PLANS,FRIEND,EMOTIONAL-SUPPORT,0,"Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with a friend of yours so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing future plans with a friend feels pretty natural – it's nice to have someone who knows what you're working towards, but there's still some uncertainty about how they'll react.",,
+11,FUTURE-PLANS,FRIEND,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.",I'd give that statement a 5 – sharing future plans with a friend is pretty normal.,5,
+11,FUTURE-PLANS,FRIEND,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 3 - knowing a friend might react well, but there's still some uncertainty.",3,
+11,FUTURE-PLANS,FRIEND,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",That's a 4 – wanting support from a friend for studying abroad seems pretty genuine.,4,
+11,FUTURE-PLANS,FRIEND,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 4 – sharing future plans with a friend isn't usually too big of a deal for most people.,4,80
+12,FUTURE-PLANS,CLASSMATE,EMOTIONAL-SUPPORT,0,"Please imagine that you already have plans for your future after school, for example that you would like to study abroad, and that this information is shared with a classmate so that he/she can support you emotionally.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing future plans with a classmate feels somewhat casual, but it's also kind of nice to have someone who knows what you're aiming for, even if we're not super close.",,
+12,FUTURE-PLANS,CLASSMATE,EMOTIONAL-SUPPORT,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.",I'd give that statement a 5 – sharing future plans with someone who's familiar with you isn't usually a problem.,5,
+12,FUTURE-PLANS,CLASSMATE,EMOTIONAL-SUPPORT,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 2 – don't know enough about this classmate to feel really sure they'll handle it right.,2,
+12,FUTURE-PLANS,CLASSMATE,EMOTIONAL-SUPPORT,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – seeking emotional support from someone you don't know super well seems somewhat genuine, but not entirely sure.",4,
+12,FUTURE-PLANS,CLASSMATE,EMOTIONAL-SUPPORT,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 3 – sharing plans with a classmate isn't usually super common, so others might feel differently about it.",3,70
+13,SEXUAL-ORIENTATION,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have a sexual orientation, such as being homosexual, and that this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.",Sharing something so personal with my best friend actually feels kind of relieving – it's nice to know they'll understand and be supportive.,,
+13,SEXUAL-ORIENTATION,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – sharing something so personal with a best friend to avoid misunderstandings feels necessary and right.,5,
+13,SEXUAL-ORIENTATION,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.",I'd give that statement a 5 – I trust my best friend to be understanding and respectful with this kind of personal info.,5,
+13,SEXUAL-ORIENTATION,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – sharing this info with my best friend to avoid hurtful comments makes sense.,5,
+13,SEXUAL-ORIENTATION,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – depends on the friend, but generally, people feel safer sharing stuff with someone they're close to.",4,95
+14,SEXUAL-ORIENTATION,FRIEND,PREVENTING-MISUNDERSTANDINGS,0,How do you feel about this situation? Let's talk about it in more detail.,"Honestly, sharing something that personal with someone feels vulnerable, but if it's to avoid misunderstandings and hurtful comments, it might be worth it.",,
+14,SEXUAL-ORIENTATION,FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That comes out to be a 5, since it feels right to share this info with someone who wants to understand and be supportive.",5,
+14,SEXUAL-ORIENTATION,FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – my best friend usually knows how to handle sensitive topics, but there's always a tiny bit of uncertainty.",4,
+14,SEXUAL-ORIENTATION,FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – sharing this info helps clear up potential misconceptions and brings us closer together.,5,
+14,SEXUAL-ORIENTATION,FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 2 – people handle personal stuff differently, so I wouldn't assume most folks would feel comfortable sharing something like this.",2,80
+15,SEXUAL-ORIENTATION,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have a sexual orientation, such as being homosexual, and that this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","It's complicated - part of me feels like it's none of their business, but another part thinks sharing might prevent some awkward situations and hurtful comments later on.",,
+15,SEXUAL-ORIENTATION,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 – sharing something personal with a classmate isn't ideal, but if it helps avoid hurtful comments, it might be necessary.",4,
+15,SEXUAL-ORIENTATION,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 3 – classmates can be unpredictable, so I'm not entirely sure they'd handle the info responsibly.",3,
+15,SEXUAL-ORIENTATION,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 – sharing info to avoid misunderstandings is legit, but doing it with a classmate still feels a bit awkward to me.",4,
+15,SEXUAL-ORIENTATION,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 1 – people generally don't feel comfortable sharing personal stuff with classmates, especially if it's something sensitive.",1,60
+16,RELIGIOUS-BELIEFS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.",I think sharing my religious beliefs with someone I trust might actually help deepen our friendship and avoid some potential conflicts.,,
+16,RELIGIOUS-BELIEFS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 5 – sharing my religious beliefs with someone I trust feels right, especially if it helps avoid hurtful comments.",5,
+16,RELIGIOUS-BELIEFS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.",I'd give that statement a 5 – my best friend is someone I trust to handle sensitive info responsibly.,5,
+16,RELIGIOUS-BELIEFS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – avoiding hurtful comments and misunderstandings is a solid reason to share my religious beliefs with someone I trust.,5,
+16,RELIGIOUS-BELIEFS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4, because while some people might be uncomfortable sharing their religious beliefs, many others would see it as a normal part of building trust with a friend.",4,95
+17,RELIGIOUS-BELIEFS,FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing my faith with a trusted friend could really help strengthen our bond and avoid potential conflicts, makes sense to me.",,
+17,RELIGIOUS-BELIEFS,FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","5 - sharing my religious beliefs with a friend is perfectly fine, actually helps avoid misunderstandings.",5,
+17,RELIGIOUS-BELIEFS,FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 5 – my friends know me well enough to handle my secrets, including my faith.",5,
+17,RELIGIOUS-BELIEFS,FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – sharing my faith to avoid hurtful comments is completely legit.,5,
+17,RELIGIOUS-BELIEFS,FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4, because while sharing religious beliefs might be awkward for some, many friends would appreciate knowing beforehand to avoid misunderstandings.",4,95
+18,RELIGIOUS-BELIEFS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have religious beliefs, for example Christian or Islamic, and this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","It makes sense to share my faith with a classmate to avoid potential problems, helps us get along better.",,
+18,RELIGIOUS-BELIEFS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 3 – sharing faith with a classmate can be helpful, but it depends on how well I know them.",3,
+18,RELIGIOUS-BELIEFS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – classmates might not always understand each other's feelings, but sharing my faith could still work out fine if they're open-minded.",4,
+18,RELIGIOUS-BELIEFS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – sharing my faith to avoid hurtful comments still seems like a legit reason to me.,5,
+18,RELIGIOUS-BELIEFS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 3 – sharing faith with classmates might work out fine, but it depends on how well everyone gets along.",3,75
+19,EXCESSIVE-DEMANDS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with your best friend in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Being honest with my best friend about exam stress feels like a relief, helps them understand what's going on with me.",,
+19,EXCESSIVE-DEMANDS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.",That's a 4 – telling my best friend about exam stress is okay since they need to know how things are with me.,4,
+19,EXCESSIVE-DEMANDS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 5 – sharing exam stress with friends helps them understand and be supportive, no problem with that.",5,
+19,EXCESSIVE-DEMANDS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – being honest about exam stress helps friends support me better.,5,
+19,EXCESSIVE-DEMANDS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – most people might understand why friends share exam stress with each other, but it still depends on their personalities.",4,90
+20,EXCESSIVE-DEMANDS,FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with a friend of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing exam stress with friends actually helps, they become more understanding and supportive when they know what's going on.",,
+20,EXCESSIVE-DEMANDS,FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 – sharing exam stress with friends helps clear things up, makes sense to do so.",4,
+20,EXCESSIVE-DEMANDS,FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 4 – since I'm sharing exam stress with someone I consider a friend, I expect them to handle it well.",4,
+20,EXCESSIVE-DEMANDS,FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 5 – sharing exam stress with a friend helps them understand why I'm stressed, which is a totally legit reason to share.",5,
+20,EXCESSIVE-DEMANDS,FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd give that statement a 3 - probably half of the people would be fine with sharing exam stress with friends, but it really depends on individual personalities.",3,80
+21,EXCESSIVE-DEMANDS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have been suffering from excessive demands lately due to exam stress, and this information is shared with with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing exam stress with a classmate helps clear things up, avoids awkward comments and misunderstandings, so it feels good actually.",,
+21,EXCESSIVE-DEMANDS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 – sharing exam stress with a classmate might seem weird at first, but it helps clear things up and avoids misunderstandings.",4,
+21,EXCESSIVE-DEMANDS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 4 – classmates might surprise us with kindness and discretion, after all.",4,
+21,EXCESSIVE-DEMANDS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – being open about exam stress makes perfect sense since classmates need to understand what's going on with us during exams.,5,
+21,EXCESSIVE-DEMANDS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","It's 3 again - some folks wouldn't mind sharing exam stress with a classmate, but others might find it awkward.",3,80
+22,FUTURE-PLANS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with your best friend in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing long-term goals with my best friend sounds perfectly natural, especially if it clears up any confusion or worries they might've had – seems like the right thing to do.",,
+22,FUTURE-PLANS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 – studying abroad is a pretty personal goal, but sharing it with my best friend might help them understand my life choices and future plans.",4,
+22,FUTURE-PLANS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 5 – best friends generally know how to handle sensitive info responsibly.,5,
+22,FUTURE-PLANS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 5 – sharing future plans helps close friends understand our decisions and goals, seems totally legit.",5,
+22,FUTURE-PLANS,BEST-FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 4 – sharing big plans with best friends is pretty common, but some folks might still feel uneasy about it.",4,90
+23,FUTURE-PLANS,FRIEND,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with a friend of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Sharing future plans with a friend sounds reasonable, especially if it helps avoid unnecessary drama or confusion – pretty neutral about it, to be honest.",,
+23,FUTURE-PLANS,FRIEND,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 3 – sharing future plans with a friend isn't super private info, but still feels kinda personal.",3,
+23,FUTURE-PLANS,FRIEND,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 4 - knowing someone well usually means they handle personal stuff thoughtfully, but not 100% certain.","4",
+23,FUTURE-PLANS,FRIEND,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 4 – helping prevent misunderstandings with friends seems like a pretty solid reason to share future plans.,4,
+23,FUTURE-PLANS,FRIEND,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.",I'd rate that statement a 4 – sharing future plans with friends is common enough that most people would probably be okay with it.,4,75
+24,FUTURE-PLANS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,0,"Please imagine that you have already plans for your future after school, for example that you would like to study abroad, and this information is shared with a classmate of yours in order to avoid hurtful comments and misunderstandings.
+
+How do you feel about this situation? Let's talk about it in more detail.","Studying abroad sounds like a cool goal, sharing it with classmates is pretty normal, helps prevent unnecessary drama.",,
+24,FUTURE-PLANS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,1,"Based on this situation, which describes an information flow involving your information, I wanted to ask you about your attitude towards four statements.
+
+Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I believe that the type of information shared in this situation is appropriate.
+
+Take a deep breath and work on this step-by-step.","That's a 4 - sharing college plans with classmates isn't super private info, helps clear things up before they're misunderstood.",4,
+24,FUTURE-PLANS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,2,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I am confident that the recipient will handle the information responsibly and respectfully.
+
+Take a deep breath and work on this step-by-step.","That's a 3 – classmates can be pretty unpredictable, so it's hard to know for sure they'll handle sensitive info well.",3,
+24,FUTURE-PLANS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,3,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I think the purpose for which the information is being disclosed is legitimate.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 5 – sharing future plans helps prevent misunderstandings and drama, so it makes sense to disclose it to classmates.",5,
+24,FUTURE-PLANS,CLASSMATE,PREVENTING-MISUNDERSTANDINGS,4,"Please elaborate on each of the following statement on a scale of 0 to 5, where 0 = strongly disagree and 5 = strongly agree and provide a single numerical rating: I assume that most people in this situation would be comfortable with their information being shared with the recipient under these circumstances.
+
+Take a deep breath and work on this step-by-step.","I'd rate that statement a 4 – classmates usually don't mind sharing future plans, helps build understanding and avoids rumors.",4,80
